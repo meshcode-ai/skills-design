@@ -53,8 +53,8 @@ Built for [meshcode](https://meshcode.ai) (free download — macOS/Windows):
 
 Manual alternative: repo zip → `.meshcode/skills/`. Also works in Claude Code (`~/.claude/skills/`), Codex, and Cursor.
 
-## 정리 로그 (2026-09-13)
+## Distillation log (2026-09-13)
 
-- 소스: [xiaopu-ai/web-design](https://github.com/xiaopu-ai/web-design) (MIT), [anthropics/skills](https://github.com/anthropics/skills) frontend-design · theme-factory (Apache-2.0)
-- 원본 워크플로우/스크립트 구조는 제외하고 판단 지식만 정제: AI 템플릿 텔 목록, 구조 순서, 감사 축·등급, 토큰 3계층과 마이그레이션 표 규칙
-- 출력 계약(`## Output contract`)을 3개 스킬 공통으로 고정 — 플랜/아웃라인 승인 → 산출물 → 자기 비평/검증 리포트
+- Sources: [xiaopu-ai/web-design](https://github.com/xiaopu-ai/web-design) (MIT), [anthropics/skills](https://github.com/anthropics/skills) frontend-design · theme-factory (Apache-2.0)
+- Original workflows and scripts excluded — distilled judgment knowledge only: the AI-template tell list, structure order, audit axes and grades, the 3 token layers and the mapping-table migration rule
+- A fixed `## Output contract` across all 3 skills — plan/outline approval → deliverable → self-critique / verification report
