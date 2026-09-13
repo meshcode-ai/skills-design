@@ -1,0 +1,12 @@
+{
+  "description": "Design skills for Claude Code, Codex, Cursor — homepage and landing page design, UI design audit with A-F grading, design tokens and design systems (primitive/semantic/component layers, dark mode, migration). Knowledge-first agent skills: AI-template tells, conversion structure, judgment criteria + output contracts, no scripts. MIT.",
+  "topics": [
+    "agent-skills",
+    "claude-skills",
+    "web-design",
+    "landing-page",
+    "ui-review",
+    "design-tokens",
+    "design-system"
+  ]
+}
